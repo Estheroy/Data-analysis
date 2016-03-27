@@ -2,21 +2,33 @@
 
 > **k means clustering**
  
- >- Compute the likelihood function based on **mixture distance function** and Implement K means clustering with visual representation with the **Euclidian distance** likelihood function.
+>- Compute the likelihood function based on **mixture distance function** and Implement K means clustering with visual representation with the **Euclidian distance** likelihood function.
 
- > **Perceptron**
+<img src="./img/k_means_two_centers.jpg" width="250" height="250"> 
+<img src="./img/k_means_three_centers.jpg" width="250" height="250"> 
+<img src="./img/k_means_four_centers.jpg" width="250" height="250"> 
 
- >-  Implement Perceptron for **binary classification** tasks with visual representation.
+> **Perceptron**
 
- > **mean-shift clustering**
+>-  Implement Perceptron for **binary classification** tasks with visual representation.
 
- >- Implement mean-shift clustering with visual representation.
+<img src="./img/Perceptron.jpg" width="250" height="250"> 
 
- > **PCA on Yale Face Database**
+> **mean-shift clustering**
 
- >- Implement eigen faces by using the built-in function PCA in MATLAB and implement PCA by using svd and eig function in MATLAB.
+>- Implement mean-shift clustering with visual representation.
 
- > **Regression Exercises**
+<img src="./img/means_shifting.jpg" width="250" height="250"> 
 
- >- Implement **linear regression**, second order polynomial regression, **higher-orders polynomial regression** and **error analysis** for predicting news popularity. ( Dataset download from UCI Machine Learning Repository. )
+> **PCA on Yale Face Database**
 
+>- Implement eigen faces by using the built-in function PCA in MATLAB and implement PCA by using svd and eig function in MATLAB.
+
+<img src="./img/eigface1.jpg" width="250" height="250"> 
+<img src="./img/eigface2.jpg" width="250" height="250"> 
+<img src="./img/eigface3.jpg" width="250" height="250"> 
+<img src="./img/AverageFace.jpg" width="250" height="250"> 
+
+> **Regression Exercises**
+
+>- Implement **linear regression**, second order polynomial regression, **higher-orders polynomial regression** and **error analysis** for predicting news popularity. ( Dataset download from UCI Machine Learning Repository. )
