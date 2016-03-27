@@ -12,7 +12,7 @@
 
 >-  Implement Perceptron for **binary classification** tasks with visual representation.
 
-<img src="./img/Perceptron.jpg" width="300" height="250"> 
+<img src="./img/Perceptron.jpg" width="330" height="250"> 
 
 > **mean-shift clustering**
 
